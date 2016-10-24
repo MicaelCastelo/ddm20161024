@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ESGTS-2016-10-24-NrTFav</string>
+    <string name="str_etEntrarTelefoneFav">Exemplo 922012321</string>
+    <string name="str_btnEntrarTelefoneFav">Adicionar</string>
+</resources>
